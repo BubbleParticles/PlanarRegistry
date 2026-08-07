@@ -1,0 +1,40 @@
+description = "Registry for the Planar.jl ecosystem (packages of the BubbleParticles/Planar.jl monorepo)"
+name = "PlanarRegistry"
+repo = "https://github.com/BubbleParticles/PlanarRegistry.git"
+uuid = "55da71c0-fafb-41ae-8249-1bb3b7066f5d"
+
+[packages.01937fd2-c099-442f-ae89-75fa208aad36]
+name = "PlanarOptim"
+path = "Packages/P/PlanarOptim"
+
+[packages.38b379f7-ca41-4278-b0dc-774ced1e32bb]
+name = "DownloadTool"
+path = "Packages/D/DownloadTool"
+
+[packages.646fb1a4-6797-441d-ad18-3bdbde2eb86b]
+name = "Planar"
+path = "Packages/P/Planar"
+
+[packages.799974c5-219d-476a-ada7-be492421c276]
+name = "FeatureSelection"
+path = "Packages/F/FeatureSelection"
+
+[packages.a475c859-e357-4be2-a5e3-43038ab4b158]
+name = "PlanarCore"
+path = "Packages/P/PlanarCore"
+
+[packages.bc793e09-ff97-408c-9766-388aa928ad5c]
+name = "StrategyTools"
+path = "Packages/S/StrategyTools"
+
+[packages.d4fe19c2-883d-48d3-92d7-80b36677371b]
+name = "StrategyStats"
+path = "Packages/S/StrategyStats"
+
+[packages.df15b565-ff7f-4c64-9bc8-38e9343ea891]
+name = "PlanarDev"
+path = "Packages/P/PlanarDev"
+
+[packages.e8cdc95d-7257-4c38-ab0e-cc8a28c19776]
+name = "Python"
+path = "Packages/P/Python"

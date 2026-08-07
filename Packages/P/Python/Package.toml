@@ -1,0 +1,4 @@
+name = "Python"
+repo = "https://github.com/BubbleParticles/Planar.jl.git"
+subdir = "Python"
+uuid = "e8cdc95d-7257-4c38-ab0e-cc8a28c19776"
