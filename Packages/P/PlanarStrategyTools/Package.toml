@@ -1,4 +1,4 @@
-name = "StrategyTools"
+name = "PlanarStrategyTools"
 repo = "https://github.com/BubbleParticles/Planar.jl.git"
-subdir = "StrategyTools"
+subdir = "PlanarStrategyTools"
 uuid = "bc793e09-ff97-408c-9766-388aa928ad5c"
