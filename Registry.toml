@@ -19,10 +19,6 @@ path = "Packages/P/Planar"
 name = "PlanarFeatureSelection"
 path = "Packages/P/PlanarFeatureSelection"
 
-[packages.a475c859-e357-4be2-a5e3-43038ab4b158]
-name = "PlanarCore"
-path = "Packages/P/PlanarCore"
-
 [packages.bc793e09-ff97-408c-9766-388aa928ad5c]
 name = "PlanarStrategyTools"
 path = "Packages/P/PlanarStrategyTools"
