@@ -1,5 +1,4 @@
 [0]
-DataFrames = "1.8.2"
 OnlineTechnicalIndicators = "0.1.2"
 PlanarCore = "1"
 Statistics = "1.11.1"
